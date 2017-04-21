@@ -1,0 +1,10 @@
+fernanda1.txt
+fernanda10
+fernanda2.txt
+fernanda3.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+trab1-2017.txt
